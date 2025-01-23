@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hola! I'm Caitlin Sanderson
 
-<!--
-**caitlincode/caitlincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
 
-Here are some ideas to get you started:
+💻 Currently learning software development and coding through Mission Ready.
+🚀 Focused on developing creative solutions through technology and collaborating on meaningful projects.
+🌱 Experienced in projects involving data management, APIs, and CLI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐾 What I Enjoy
+
+🌳 Walking my dog and spending time in the garden.
+🧩 Solving puzzles and crosswords to stay sharp.
+🌎 Bilingual: I speak English and Spanish.
+
+📫 Let’s Connect!
+
+💼 [LinkedIn](https://www.linkedin.com/in/sandersoncaitlin)
+🌐 [Email](sanderson.cj@gmail.com)
