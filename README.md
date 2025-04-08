@@ -4,6 +4,8 @@ Full Stack Developer | UX-Focused Engineer | AI Explorer
 
 ---
 
+### ✨ About Me 
+
 I’m a full stack developer from Aotearoa New Zealand, with a background in language, storytelling, and people-first design. I completed Mission Ready's Full-Stack Developer course and have been building tools that blend clean architecture, AI, and intuitive front ends.
 
 I’m especially drawn to projects that simplify complexity and support real people — from helping users navigate visa options to making motor insurance easier to understand. I love the space where thoughtful design, language, and logic meet.
