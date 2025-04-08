@@ -1,18 +1,37 @@
-👋 Hola! I'm Caitlin Sanderson
+# Tēnā koutou, ko Caitlin toku ingoa 👋
 
-🌟 About Me
+Full Stack Developer | UX-Focused Engineer | AI Explorer
 
-💻 Currently learning software development and coding through Mission Ready.
-🚀 Focused on developing creative solutions through technology and collaborating on meaningful projects.
-🌱 Experienced in projects involving data management, APIs, and CLI tools. Like these: [Command Line Interface Tool](https://github.com/caitlincode/mission5.git) A command-line interface tool to seed data into a local MongoDB database or delete data from it. [Turners Car Classification Tool](https://github.com/caitlincode/turnersMission1.git) React-based application for classifying car images using Azure Custom Vision.
+---
 
-🐾 What I Enjoy
+I’m a full stack developer from Aotearoa New Zealand, with a background in language, storytelling, and people-first design. I completed Mission Ready's Full-Stack Developer course and have been building tools that blend clean architecture, AI, and intuitive front ends.
 
-🌳 Walking my dog and spending time in the garden.
-🧩 Solving puzzles and crosswords to stay sharp.
-🌎 Bilingual: I speak English and Spanish.
+I’m especially drawn to projects that simplify complexity and support real people — from helping users navigate visa options to making motor insurance easier to understand. I love the space where thoughtful design, language, and logic meet.
 
-📫 Let’s Connect!
+---
 
-💼 [LinkedIn](https://www.linkedin.com/in/sandersoncaitlin)
-🌐 [Email](sanderson.cj@gmail.com)
+### 🛠️ Projects & Highlights
+
+- **Airie Visa Search Assistant** – A hybrid AI + filter-based platform that helps users explore and compare visa options by country, type, or keyword.  
+- **Turners Car Classifier** – A React app powered by Azure Custom Vision to identify car types from uploaded images.  
+- **Insurance Recommender Tool** – A generative AI assistant guiding users through motor insurance selection.  
+- **CLI Data Seeder** – A fast, safe command-line tool to seed or purge MongoDB data for dev environments.
+
+---
+
+### 🌿 Outside the Code
+
+- 🐕 Long walks with my dog and time in the garden  
+- 🧘 Yoga to challenge my body and mind  
+- 🧠 Crosswords, cinema, and conversational Spanish
+---
+
+### 🤝 Let’s Connect
+
+- [LinkedIn](www.linkedin.com/in/sandersoncaitlin 
+- [Email](mailto:sanderson.cj@gmail.com) 
+
+---
+
+*Curious by default. Builder by choice.*
+
